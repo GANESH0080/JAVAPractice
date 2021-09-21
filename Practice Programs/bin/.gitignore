@@ -35,6 +35,12 @@
 /LocalVariable/
 /LocalVariableWithConstructor/
 /LogicaOperatorWithLocalVariable/
+/LogicalOperAND.class
+/LogicalOperFirstAND.class
+/LogicalOperOR.class
+/LogicalOperORFirst.class
+/LogicalOperORSecond.class
+/LogicalOperSecondAND.class
 /LogicalOperatorLocalVariableWithArray/
 /LogicalOperatorsWithAccessModi/
 /LogicalOperatorsWithInstanceVariable/
@@ -56,9 +62,3 @@
 /TryCatchWithMethod/
 /VectorClass/
 /ganesh.txt
-/LogicalOperAND.class
-/LogicalOperFirstAND.class
-/LogicalOperOR.class
-/LogicalOperORFirst.class
-/LogicalOperORSecond.class
-/LogicalOperSecondAND.class
